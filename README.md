@@ -13,7 +13,7 @@
 - ☁️ Shipped a fully serverless **AWS dining concierge chatbot** (Lex, Lambda, SQS, OpenSearch, DynamoDB, SES)
 - 🌱 Currently exploring agentic AI systems (CrewAI) and production ML infrastructure
 - 🎯 Looking for **SDE / Data Science / Data Analyst internships**, Summer 2027
-- 📫 Reach me at **gurjeetkaur11@gmail.com** or [LinkedIn](https://linkedin.com/in/gurjeetkaur11)
+- 📫 Reach me at **gurjeetkaursaini2001@gmail.com** or [LinkedIn](https://linkedin.com/in/gurjeetkaur11)
 
 ---
 
