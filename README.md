@@ -42,11 +42,11 @@
 
 | Project | Description |
 |---|---|
-| 🤖 [Autonomous Portfolio Rebalancing Agent](#) | Tax-aware portfolio rebalancing system — drift monitoring, CVXPY optimization, trade compliance, audit trails, and backtesting |
-| 🎼 [Scaling Laws in Symbolic Music Modeling](#) | Transformer + LSTM models trained on a 143M-token ABC notation corpus to study power-law scaling behavior |
-| 🍽️ [Dining Concierge Chatbot](#) | Serverless AWS conversational pipeline with persistent state and automated recommendations |
+| 🤖 [Autonomous Portfolio Rebalancing Agent](https://github.com/gurjeetkaur0022/portfolio-intelligence-platform) | Tax-aware portfolio rebalancing system — drift monitoring, CVXPY optimization, trade compliance, audit trails, and backtesting |
+| 🎼 [Scaling Laws in Symbolic Music Modeling](https://github.com/gurjeetkaur0022/music_scaling_laws) | Transformer + LSTM models trained on a 143M-token ABC notation corpus to study power-law scaling behavior |
+| 🍽️ [Dining Concierge Chatbot](https://github.com/gurjeetkaur0022/dining-chatbot) | Serverless AWS conversational pipeline with persistent state and automated recommendations |
 
-*(Replace `#` with your repo links)*
+
 
 ---
 
