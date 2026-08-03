@@ -46,14 +46,12 @@
 | 🎼 [Scaling Laws in Symbolic Music Modeling](https://github.com/gurjeetkaur0022/music_scaling_laws) | Transformer + LSTM models trained on a 143M-token ABC notation corpus to study power-law scaling behavior |
 | 🍽️ [Dining Concierge Chatbot](https://github.com/gurjeetkaur0022/dining-chatbot) | Serverless AWS conversational pipeline with persistent state and automated recommendations |
 
-
-
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gurjeetkaur0022&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetkaur0022" alt="GitHub Streak" />
 </p>
