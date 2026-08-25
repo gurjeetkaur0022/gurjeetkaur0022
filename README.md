@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi, I'm Gurjeet Kaur 👋</h1>
 
 <p align="center">
@@ -145,4 +145,4 @@ I'm interested in **Software Engineering, Data Science, Machine Learning, and Da
 <p align="center">
   <i>Building reliable systems that turn data, algorithms, and models into practical applications.</i>
 </p>
-```
+
