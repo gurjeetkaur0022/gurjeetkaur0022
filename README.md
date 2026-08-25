@@ -32,7 +32,7 @@
 
 ### Data Science Intern — Param Infra Private Limited
 
-** May 2026 – Aug 2026**
+May 2026 – Aug 2026**
 
 * Designed a **SQL-based validation layer** that cross-referenced invoice records across three construction sites to identify duplicate submissions and recurring contractor billing patterns, flagging an estimated **$45K+ in potential duplicate payouts**
 * Built a **Prophet-based time-series forecasting model in Python** over pending bill approvals and payment schedules to generate rolling cash-flow projections, providing stakeholders with **2–3 weeks of advance visibility** into projected shortfalls
